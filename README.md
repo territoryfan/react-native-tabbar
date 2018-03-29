@@ -1,6 +1,6 @@
 ## react-native-tabbar
 
-tabbar component for React Native
+A tabbar component for React Native
 
 ### Overview
 tabbar using react-native,support android and ios,mobile bottom tab bar with more freedom.And what's more,solved the problem overflow parent hidden on the android,also it can be defined center item by itself.
