@@ -53,5 +53,5 @@ import TabBar from 'react-native-nav-tabbar';
 ### Examples
 
 
-![](./screenshots/tabbar_ios.gif)
-![](./screenshots/tabbar_android.gif)
+![](https://raw.githubusercontent.com/territoryfan/react-native-tabbar/master/screenshots/tabbar_ios.gif)
+![](https://raw.githubusercontent.com/territoryfan/react-native-tabbar/master/screenshots/tabbar_android.gif)
