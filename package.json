@@ -1,0 +1,25 @@
+{
+  "name": "react-native-nav-tabbar",
+  "version": "0.0.1",
+  "description": "A tabbar component for React Native",
+  "private": false,
+  "main": "TabBar.js",
+  "author": "territory",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/territoryfan/react-native-tabbar.git"
+  },
+  "bugs": {
+    "url": "https://github.com/territoryfan/react-native-tabbar/issues"
+  },
+  "license": "MIT",
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "tabbar",
+    "nav",
+    "tab"
+  ]
+}
