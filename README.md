@@ -18,8 +18,8 @@ npm install react-native-nav-tabbar --save
 import TabBar from 'react-native-nav-tabbar';
 <TabBar>
     <TabBar.Item
-        icon={require('./image/start_normal.png')}
-        selectedIcon={require('./image/start_hightlight.png')}
+        icon={require('./images/Home.png')}
+        selectedIcon={require('./images/HomeActive.png')}
         title="Home"
     >
         <View style={styles.textContent}>
@@ -32,8 +32,8 @@ import TabBar from 'react-native-nav-tabbar';
         </View>
     </TabBar.Item>
     <TabBar.Item
-        icon={require('./image/start_normal.png')}
-        selectedIcon={require('./image/start_hightlight.png')}
+        icon={require('./images/My.png')}
+        selectedIcon={require('./images/MyActive.png')}
         title="Me"
     >
         <View style={styles.textContent}>
