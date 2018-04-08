@@ -124,7 +124,7 @@ const styles = StyleSheet.create({
         height: 22,
     },
 	navText: {
-		marginTop: 3,
+	marginTop: 3,
         alignSelf: 'center',
     }
 });
